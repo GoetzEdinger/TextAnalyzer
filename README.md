@@ -15,17 +15,14 @@ computer accessibility, Natural Language Processing
   - Android (still under construction)
 
 ### Used software/prerequisites     
-                                | Links
----------------------------------------------------------------------------------------------------------
-- Python 2.7                    | https://www.python.org/download/releases/2.7/
-- NLTK 2.0.4                    | https://pypi.python.org/pypi/nltk/2.0.4
-- Kivy 1.9                      | http://kivy.org/docs/installation/installation-linux.html   (Linux)
-                                | http://kivy.org/docs/installation/installation-windows.html (Windows)
-                                | http://kivy.org/docs/installation/installation-macosx.html  (Mac OS X)
-- PyEnchant                     | http://pythonhosted.org/pyenchant/download.html
-- Dictionaries for several      | http://extensions.openoffice.org/
-  languages (english, french,   |
-  german, italian, polish, ...) |
+- Python 2.7  https://www.python.org/download/releases/2.7/
+- NLTK 2.0.4  https://pypi.python.org/pypi/nltk/2.0.4
+- Kivy 1.9    http://kivy.org/docs/installation/installation-linux.html   (Linux) <br>
+              http://kivy.org/docs/installation/installation-windows.html (Windows) <br>
+              http://kivy.org/docs/installation/installation-macosx.html  (Mac OS X)
+- PyEnchant   http://pythonhosted.org/pyenchant/download.html
+- Dictionaries for several languages (english, french, german, italian, polish, ...) <br>
+http://extensions.openoffice.org/
 
 ### Usage
 in a terminal window (Bash/DOS-Box): <br>
