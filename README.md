@@ -31,7 +31,7 @@ python TextAnalyzer.py <filename>
 ### Languages
 - german
 
-ToDo/Issues
+### ToDo/Issues
 - write and test the GUI
 - Create and test a version for Android
 - Create and test a version for iOS (iPhone/iPad)
